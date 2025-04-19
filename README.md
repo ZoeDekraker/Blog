@@ -22,6 +22,21 @@
 
 <br>
 
+
+## 19 April 2025  
+###  Released: Local AI Fall Auditing Tool on GitHub  
+
+I’ve just uploaded a new project: a **privacy-first AI nursing tool** that audits progress notes for falls — completely offline.  
+
+It runs using `llamafile` and the `Qwen2.5-7B-Instruct` model, making it ideal for aged care nurses and quality teams who want fast insights without sharing any resident data with the cloud.  
+
+🔗 [View the GitHub repo here](https://github.com/ZoeDekraker/local-fall-audit-ai)
+
+
+
+
+<br>
+
 ## 19 April 2025
 ### Shared on LinkedIn - Podcast-style audio overview of:AN-ACC Frequently Asked Questions for Care Staff.
 - Created with Google NotebookLM.
