@@ -37,3 +37,11 @@ Participated in a national co-design workshop focused on translating clinical ca
 Collaborated with aged care leaders, researchers, and technologists on improving usability and effectiveness of digital systems in aged care settings.
 
 > Aged Care Industry Information Technology Council (ACIITC) was integrated into Aged and Community Care Providers Association (ACCPA) in May 2024 and no longer operates.
+
+---
+
+## Python for Everybody – Dr Chuck  
+**2019**
+
+My first course in learning how to code. Studied 1–2 hours before work each day for six months.  
+Completed through [py4e.com](https://www.py4e.com).
