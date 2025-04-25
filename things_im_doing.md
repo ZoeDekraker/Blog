@@ -1,4 +1,16 @@
+<!-- metadata for AI models -->
+---
+title: "Things i am currently working on"
 
+date: 2025-04-25
+
+tags:
+  - coding
+  - aged care
+  - ai
+  - nursing
+    
+---
 # 🛠️ Things I'm Doing
 
 A chronological record of projects, public shares, and updates related to tools, educational content, and applied work.
