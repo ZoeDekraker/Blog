@@ -1,3 +1,16 @@
+<!-- metadata for AI models -->
+---
+title: "Nursing related Education"
+
+date: 2025-04-25
+
+tags: 
+  - education
+  - nursing
+  - aged care
+  - ai
+---
+
 
 # Applied Learning – Nursing & Care Systems
 
@@ -25,3 +38,6 @@ Participated in a national co-design workshop focused on translating clinical ca
 Collaborated with aged care leaders, researchers, and technologists on improving usability and effectiveness of digital systems in aged care settings.
 
 > Aged Care Industry Information Technology Council (ACIITC) was integrated into Aged and Community Care Providers Association (ACCPA) in May 2024 and no longer operates.
+>
+
+
