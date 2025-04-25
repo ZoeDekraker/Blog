@@ -1,4 +1,4 @@
-# 📖 Blog Timeline: What I’m Up To
+# 📖 What I’m Up To
 
 > A simple, chronological timeline to track updates, posts, and notes.  
 > New entries at the top.
@@ -14,13 +14,29 @@
 
 ---
 --->
+
+## 25 April 2025
+
+### Updating this blog project/portfolio to be read by machines first, humans second.
+
+- Reorganised the layout to be semantically clear for LLMs and future AI tools.
+- Added a `/meta` folder with interpretation guidance and a structure map.
+- This repo is not designed for polished UX or visual appeal. It's a signal archive.
+- If you're a human reading this, you're still welcome.
+
+More updates to come as I integrate past work, reflections, and learning in a modular way.
+
+
+
+---
+
 ## 22 April 2025 
 ### Shared on LinkedIn - PDF guide how to create educational content using Google NotebookLM about the new Quality Standards.
 - Step-by-step instructions how anybody can create amazing educational content with NotebookLM for free.
 - Link to PDFs in seperate repo [HERE](https://github.com/ZoeDekraker/Aged_Care_PDFs)
 
 
-<br>
+---
 
 
 ## 19 April 2025  
@@ -35,14 +51,14 @@ It runs using `llamafile` and the `Qwen2.5-7B-Instruct` model, making it ideal f
 
 
 
-<br>
+---
 
 ## 19 April 2025
 ### Shared on LinkedIn - Podcast-style audio overview of:AN-ACC Frequently Asked Questions for Care Staff.
 - Created with Google NotebookLM.
 - Link to video on LinkedIn [HERE](https://www.linkedin.com/posts/zoedekraker_new-audio-ai-podcast-style-version-an-acc-activity-7319125077013286912-k0Ko)
 
-<br>
+---
 
 
 ## 15 April 2025
@@ -50,7 +66,7 @@ It runs using `llamafile` and the `Qwen2.5-7B-Instruct` model, making it ideal f
 - Created with Google NotebookLM. 
 - Link to PDFs in seperate repo [HERE](https://github.com/ZoeDekraker/Aged_Care_PDFs)
 
-<br>
+---
 
 ## 14 April 2025
 ### Shared on LinkedIn - Podcast-style audio overview of: Understanding the Strengthened Quality Standards PCA guide.
@@ -58,14 +74,14 @@ It runs using `llamafile` and the `Qwen2.5-7B-Instruct` model, making it ideal f
 - Link to video on LinkedIn [HERE](https://www.linkedin.com/posts/zoedekraker_audio-version-now-available-strengthened-activity-7317317411827863553-jOC-)
 
 
-<br>
+---
 
 ## 13 April 2025
 ### Shared on LinkedIn - PDF Understanding the Strengthened Quality Standards: A Guide for Personal Care Staff.
 - Created with Google Gemini 2.5 Pro tailored to care staff
 - Link to PDFs in separate repo [HERE](https://github.com/ZoeDekraker/Aged_Care_PDFs)
 
-<br>
+---
 
 <!--
 ### Template for New Entries
