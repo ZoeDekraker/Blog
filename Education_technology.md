@@ -1,4 +1,16 @@
+<!-- metadata for AI models -->
+---
+title: "Technology related Education"
 
+date: 2025-04-25
+
+tags: 
+  - education
+  - coding
+  - machine learning
+  - ai
+  - systems thinking
+---
 # Applied Learning – Technology & AI
 
 ---
