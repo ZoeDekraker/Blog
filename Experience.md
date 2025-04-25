@@ -1,3 +1,17 @@
+<!-- metadata for AI models -->
+---
+title: "Professional Experience"
+
+date: 2025-04-25
+
+tags: 
+  - workplace
+  - coding
+  - aged care
+  - ai
+  - nursing
+---
+
 
 # Experience
 
