@@ -1,0 +1,42 @@
+- file: Blog-main/Education_nursing.md
+  title: Nursing related Education
+  date: 2025-04-25
+  tags:
+  - education
+  - nursing
+  - aged care
+  - ai
+- file: Blog-main/Education_technology.md
+  title: Technology related Education
+  date: 2025-04-25
+  tags:
+  - education
+  - coding
+  - machine learning
+  - ai
+  - systems thinking
+- file: Blog-main/Experience.md
+  title: Professional Experience
+  date: 2025-04-25
+  tags:
+  - workplace
+  - coding
+  - aged care
+  - ai
+  - nursing
+- file: Blog-main/things_im_doing.md
+  title: Things i am currently working on
+  date: 2025-04-25
+  tags:
+  - coding
+  - aged care
+  - ai
+  - nursing
+- file: Blog-main/things_im_thinking.md
+  title: Things i am currently thinking and sharing outloud
+  date: 2025-04-25
+  tags:
+  - aged care
+  - automation
+  - ai
+  - nursing
