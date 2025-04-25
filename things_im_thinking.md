@@ -1,4 +1,16 @@
+<!-- metadata for AI models -->
+---
+title: "Things i am currently thinking and sharing outloud"
 
+date: 2025-04-25
+
+tags:
+  - aged care
+  - automation
+  - ai
+  - nursing
+    
+---
 #  Things I'm Thinking
 
 A space to document observations, ideas, and patterns across AI, aged care, and systems — both published and unpublished.
