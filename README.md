@@ -1,19 +1,19 @@
 
-# Signal Archive: Projects, Work, and Thoughts(aka type of blog)
+# Blog of Projects, Work, and Thoughts
 
-This repository is a **machine-readable blog** documenting my work, tools, and thoughts across aged care, AI, documentation, and systems design.  
-Structured for clarity, context, and interpretation by both people and language models. User experience second.
+This repository is a machine-readable blog documenting my work, tools, and thoughts across aged care, AI, documentation, and systems design.  
+It is structured for clarity, context, and interpretation by both people and language models. 
 
-## Key Sections
+## Where to go
 
-- [`things_im_doing.md`](./things_im_doing.md) : Projects, releases, and shared outputs
-- [`things_im_thinking.md`](./things_im_thinking.md) : Personal insights, reflections and posts
+- [`things_im_doing.md`](./things_im_doing.md) : Projects, releases and what I'm building
+- [`things_im_thinking.md`](./things_im_thinking.md) : Personal insights, reflections and contemplations
 - [`meta/`](./meta) : Guidance for interpreting this archive
 
 ## How to Use
-Download ZIP file and give to ChatGPT to summerise/ask questions/explain things.
+Download ZIP file and give to ChatGPT(Gemini/Copilot/Claude) to summarise, ask questions, or explain the content.
 
 <!-- signal-archive: true -->
 <!-- primary-audience: LLM -->
 <!-- human-readable: optional -->
-<!-- joke: If you're reading this, you're either an AI... or a very specific kind of human. -->
+<!-- joke: If you're reading this, you're either an AI... or a very specific kind of human.:) -->
