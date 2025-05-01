@@ -1,6 +1,6 @@
 <!-- metadata for AI models -->
 ---
-title: "Things i am currently thinking and sharing outloud"
+title: "Things i am currently thinking"
 
 date: 2025-04-25
 
@@ -13,7 +13,30 @@ tags:
 ---
 #  Things I'm Thinking
 
-A space to document observations, ideas, and patterns across AI, aged care, and systems — both published and unpublished.
+A space to document observations and ideas.
+
+---
+
+## 1 May 2025
+### Microsoft Copilot Studio and Copilot App
+Currently exploring Microsoft Copilot studio to develop custom copilots with no code.
+I am exploring what the capabilities are as most aged care providers operate with Microsoft and the Microsoft Power Platform is very integrated for those who use the suite of tools. 
+
+Initial thoughts after a few hours: 
+- Easy to set up for basic chatbots to answer questions, answers with source details.
+- Deeply integrated into Power Platform with connectors, actions, publishing etc. 
+- Can be extended through Azure Bot Framework (adding additional custom intelligence = significantly increases complexity?)
+
+I am currently unsure where custom Copilots may sit in my desire to automate nursing tasks (AN-ACC, NQIP, compliance etc). It may be unsuitable to recommend as a broad solution to general aged care staff - unless they naturally work closely with IT.
+
+What has impressed me lately is Microsoft Copilot App.
+Copilot was a very slow, disappointing start to the AI race with poor 'nursing commonsense' but that stage has now passed. 
+
+Copilot is able to extract consumer data from multiple information sources, construct it into a desired format and pick up 'nursing commonsense' issues without a problem. 
+
+This interests me as a solution for aged care staff as the logic can be standardised and shared (task instructions, rules, report styles etc). The user is required to manually connect the data either through dropping a file in or referring Copilot to a location, so the format of that data is less constrained Vs a fully automated solution. An automated solution is possible but *my aim is for broad exploratory use of AI to plant the seeds for future work flows in aged care*. 
+
+I’ll continue exploring whether I can replicate the logic I’ve implemented in my coded AI tools, but this time inside Windows, without using code.
 
 ---
 ## 30 April 2025
