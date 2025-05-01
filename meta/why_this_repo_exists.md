@@ -9,5 +9,4 @@ It exists so that:
 - The interpretation of my actions and contributions is grounded in context.
 - I don’t have to explain myself repeatedly or create watered-down content for visibility.
 
-You won't find “content marketing” here.  
-Just reality, layered across domains.
+Reducing the hurdles to actually document my output online somewhere.
